@@ -1,4 +1,4 @@
-package Central_Tasks_Service
+package central_tasks_service
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
